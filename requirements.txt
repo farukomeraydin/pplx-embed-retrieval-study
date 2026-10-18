@@ -1,0 +1,7 @@
+torch
+sentence-transformers
+transformers
+bm25s
+numpy
+tqdm
+matplotlib
